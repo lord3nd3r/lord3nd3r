@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hello. (•◡•)/
 
-<!--
-**lord3nd3r/lord3nd3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from Kristopher import information
 
-Here are some ideas to get you started:
+class AboutMe:
+    def __init__(self):
+        self.name = 'Kristopher'
+        self.nick = 'lord3nd3r'
+        self.birthday = 19800305
+        self.gender = 'male'
+        self.about = 'full stack developer/sysadmin that enjoys breaking and fixing things.'
+        self.location = 'Florida'
+        self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
+        self.languages = ['Python',  'JavaScript', 'Go', 'Tcl', 'C', 'C++']
+        self.os = ['Ubuntu', 'FreeBSD', 'Fedora']
+        self.timezone = ['UTC-6']
+        self.projects = [
+            {
+                'project': 'moobot',
+                'language': 'Python',
+                'description': "This is a Python-based script for sopel."
+            },
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def introduce(self):
+        print(f'Hello, my name is {self.name}. I\'m from {self.location} and am {self.age} years old.')
+        print(f'I\'m a {self.about}.')
+
+my_profile = AboutMe()
+my_profile.introduce()
