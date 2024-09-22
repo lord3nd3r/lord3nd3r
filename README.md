@@ -9,7 +9,7 @@ class AboutMe:
         self.nick = 'lord3nd3r'
         self.birthday = 19800305
         self.gender = 'male'
-        self.about = 'full stack developer/sysadmin that enjoys breaking and fixing things.'
+        self.about = 'Linux dork, loves breaking things, CNA, Photovoltaic DIYer'
         self.location = 'Florida'
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
         self.languages = ['Python', 'Mrc', 'Tcl', 'Bash']
