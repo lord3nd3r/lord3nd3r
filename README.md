@@ -12,8 +12,9 @@ class AboutMe:
         self.about = 'full stack developer/sysadmin that enjoys breaking and fixing things.'
         self.location = 'Florida'
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
-        self.languages = ['Python',  'JavaScript', 'Go', 'Tcl', 'C', 'C++']
+        self.languages = ['Python', 'Mrc', 'Tcl', 'Bash']
         self.os = ['Ubuntu', 'FreeBSD', 'Fedora']
+        self.certs = ['CNA']
         self.timezone = ['UTC-6']
         self.projects = [
             {
