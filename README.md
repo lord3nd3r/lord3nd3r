@@ -12,7 +12,7 @@ class AboutMe:
         self.about = 'Linux dork, loves breaking things, CNA, Photovoltaic DIYer'
         self.location = 'Florida'
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
-        self.languages = ['Python', 'Mrc', 'Tcl', 'Bash']
+        self.languages = ['Python', 'Msl', 'Tcl', 'Bash']
         self.os = ['Ubuntu', 'FreeBSD', 'Fedora']
         self.certs = ['CNA']
         self.timezone = ['UTC-6']
