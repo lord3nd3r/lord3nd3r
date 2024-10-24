@@ -12,6 +12,7 @@ class AboutMe:
         self.about = 'Linux dork, loves breaking things, CNA, Photovoltaic DIYer'
         self.location = 'Florida'
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
+        self.achievements = ['Author']
         self.languages = ['Python', 'Msl', 'Tcl', 'Bash']
         self.os = ['Ubuntu', 'FreeBSD', 'Fedora']
         self.certs = ['CNA']
