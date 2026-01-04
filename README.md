@@ -14,7 +14,7 @@ class AboutMe:
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LLM']
         self.achievements = ['Author', 'CNA']
         self.languages = ['Python', 'Msl', 'Tcl', 'Bash']
-        self.os = ['Ubuntu', 'FreeBSD', 'Fedora']
+        self.os = ['Debian', 'FreeBSD', 'Fedora']
         self.certs = ['CNA']
         self.timezone = ['UTC-6']
         self.projects = [
